@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+.canvas {
+  background: linear-gradient(45deg, rgb(41, 33, 94), rgb(0, 0, 53));
+}
